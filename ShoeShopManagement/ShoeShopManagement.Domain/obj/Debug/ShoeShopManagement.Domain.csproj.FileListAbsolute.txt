@@ -1,0 +1,12 @@
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\ShoeShopManagement.Domain.dll.config
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\ShoeShopManagement.Domain.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\ShoeShopManagement.Domain.pdb
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\EntityFramework.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\EntityFramework.xml
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\obj\Debug\ShoeShopManagement.Domain.csprojAssemblyReference.cache
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\obj\Debug\ShoeShopManagement.Domain.csproj.CoreCompileInputs.cache
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\obj\Debug\ShoeShopManagement.Domain.csproj.CopyComplete
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\obj\Debug\ShoeShopManagement.Domain.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.Domain\obj\Debug\ShoeShopManagement.Domain.pdb

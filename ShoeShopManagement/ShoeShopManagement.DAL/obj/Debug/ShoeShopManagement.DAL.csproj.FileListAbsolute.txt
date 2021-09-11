@@ -1,0 +1,12 @@
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\ShoeShopManagement.DAL.dll.config
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\ShoeShopManagement.DAL.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\ShoeShopManagement.DAL.pdb
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\EntityFramework.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\EntityFramework.xml
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\obj\Debug\ShoeShopManagement.DAL.csprojAssemblyReference.cache
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\obj\Debug\ShoeShopManagement.DAL.csproj.CoreCompileInputs.cache
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\obj\Debug\ShoeShopManagement.DAL.csproj.CopyComplete
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\obj\Debug\ShoeShopManagement.DAL.dll
+D:\CSDLPT\ShoeShopManagement\ShoeShopManagement.DAL\obj\Debug\ShoeShopManagement.DAL.pdb
